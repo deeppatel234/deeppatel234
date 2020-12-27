@@ -5,7 +5,6 @@
 <a href="https://twitter.com/deepp234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deepp234" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/deeppatel234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deeppatel234" height="20" width="20" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deeppatel234" alt="deeppatel234" /> </p>
 
 - 👨‍💻 All of my projects are available at [projects](https://deeppatel234.github.io/#work)
 
